@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="Description" content="Pagina web">
+        <meta name="Author" content="Luis Daniel">
+        <meta name="viewport" content="width=devide=width, initial-scaled=1.0">        
+        <title>Mi ejemplo de tienda de arte</title>
+    </head>
+
+    <body>
+        <header>
+            <h1>Not a Real CRM</h1>
+        </header>    
+            <nav>
+                 
+                <a href="">Home</a>| 
+                <a href="">Catalog</a>|
+                <a href="">Inventory</a>|
+                    
+            </nav>
+    </body>
